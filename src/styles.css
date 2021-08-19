@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+input {
+  width: 70%;
+  height: 40px;
+}
+.output {
+  padding-top: 1.5rem;
+  font-size: 2rem;
+}
+.list {
+  display: inline;
+  padding-right: 2rem;
+  font-size: 5rem;
+}
